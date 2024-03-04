@@ -1,0 +1,24 @@
+0:00 Intro & Setup ==> Done
+11:01 Get Requests ==> Done
+20:40 Route Params ==> Done
+30:08 Query Params ==> Done
+42:54 Post Requests ==> Done
+56:07 Put Requests ==> Done
+1:10:02 Patch Requests ==> Done
+1:19:00 Delete Requests ==> Done
+1:26:47 Middleware Requests ==> Done
+1:48:24 Validation ==> Done
+2:19:52 Routers ==> Done
+2:38:59 Cookies ==> Done
+2:58:59 Sessions ==> Done
+3:15:24 Sessions Pt. 2  ==> Done
+3:38:02 Passport.js & Authentication  ==> Done
+4:15:39 Databases & MongoDB  ==> Done
+4:42:10 Hashing Passwords  ==> Done
+4:54:45 Session Store  ==> Done
+5:11:58 OAuth2  ==> Done
+5:49:38 Unit Testing & Jest
+7:14:12 E2E Testing
+
+Express JS Full Course
+https://www.youtube.com/watch?v=nH9E25nkk3I&list=PPSV
